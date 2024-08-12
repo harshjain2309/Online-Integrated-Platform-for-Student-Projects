@@ -4,8 +4,8 @@ This project was developed as part of the Smart India Hackathon 2023 (SIH 2023) 
 Our team, Atomic Technigeers, created a robust web portal that integrates and manages projects taken up by students across various universities and colleges.
 The platform allows institutions and students to upload, manage, and display projects, providing a centralized and secure environment for academic collaboration.
 
-# Live Demo
-
+# Live Demo:
+     https://voluble-douhua-db4077.netlify.app/
 
 
 
